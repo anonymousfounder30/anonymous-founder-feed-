@@ -1,31 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anonymous Founder</title>
     <description>Documenting day by day the real process of building something from zero. Short daily episodes, no filter, no face.</description>
     <language>en</language>
     <link>https://anonymousfounder30.github.io/anonymous-founder-feed-</link>
-    <ns0:link href="https://anonymousfounder30.github.io/anonymous-founder-feed-/feed.xml" rel="self" type="application/rss+xml" />
-    <ns1:author>Anonymous Founder</ns1:author>
-    <ns1:summary>Documenting day by day the real process of building something from zero. Short daily episodes, no filter, no face.</ns1:summary>
-    <ns1:explicit>no</ns1:explicit>
-    <ns1:owner>
-      <ns1:name>Anonymous Founder</ns1:name>
-      <ns1:email>anonymusfounder@gmail.com</ns1:email>
-    </ns1:owner>
-    <ns1:category text="Business">
-      <ns1:category text="Entrepreneurship" />
-    </ns1:category>
+    <atom:link href="https://anonymousfounder30.github.io/anonymous-founder-feed-/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Anonymous Founder</itunes:author>
+    <itunes:summary>Documenting day by day the real process of building something from zero. Short daily episodes, no filter, no face.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Anonymous Founder</itunes:name>
+      <itunes:email>anonymusfounder@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://anonymousfounder30.github.io/anonymous-founder-feed-/cover.jpg" />
+    <itunes:category text="Business">
+      <itunes:category text="Entrepreneurship" />
+    </itunes:category>
     <item>
-      <title>Día 1: </title>
-      <description />
+      <title>Day 1: Test</title>
+      <description>First episode test. Testing the automation system.</description>
       <pubDate>Thu, 12 Feb 2026 00:00:00 -0300</pubDate>
       <enclosure url="https://anonymousfounder30.github.io/anonymous-founder-feed-/audio/ep001.mp3" length="128565" type="audio/mpeg" />
       <guid isPermaLink="false">anonymous-founder-ep001</guid>
-      <ns1:duration>00:00:05</ns1:duration>
-      <ns1:summary />
-      <ns1:episode>1</ns1:episode>
-      <ns1:episodeType>full</ns1:episodeType>
+      <itunes:duration>00:00:05</itunes:duration>
+      <itunes:summary>First episode test. Testing the automation system.</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
 </rss>
