@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Anonymous Founder</title>
     <description>Documenting day by day the real process of building something from zero. Short daily episodes, no filter, no face.</description>
@@ -21,13 +18,13 @@
       <itunes:category text="Entrepreneurship" />
     </itunes:category>
     <item>
-      <title>Day 1: Test</title>
-      <description>First episode test. Testing the automation system.</description>
+      <title>Día 1: </title>
+      <description />
       <pubDate>Thu, 12 Feb 2026 00:00:00 -0300</pubDate>
-      <enclosure url="https://anonymousfounder30.github.io/anonymous-founder-feed-/audio/ep001.mp3" length="128565" type="audio/mpeg" />
+      <enclosure url="https://anonymousfounder30.github.io/anonymous-founder-feed-/video/ep001.mp4" length="83593" type="video/mp4" />
       <guid isPermaLink="false">anonymous-founder-ep001</guid>
-      <itunes:duration>00:00:05</itunes:duration>
-      <itunes:summary>First episode test. Testing the automation system.</itunes:summary>
+      <itunes:duration>00:00:04</itunes:duration>
+      <itunes:summary />
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
