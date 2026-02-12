@@ -18,6 +18,17 @@
       <itunes:category text="Entrepreneurship" />
     </itunes:category>
     <item>
+      <title>Day 2: </title>
+      <description />
+      <pubDate>Thu, 12 Feb 2026 00:00:00 -0300</pubDate>
+      <enclosure url="https://anonymousfounder30.github.io/anonymous-founder-feed-/audio/ep002.mp3" length="128565" type="audio/mpeg" />
+      <guid isPermaLink="false">anonymous-founder-ep002</guid>
+      <itunes:duration>00:00:05</itunes:duration>
+      <itunes:summary />
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Día 1: </title>
       <description />
       <pubDate>Thu, 12 Feb 2026 00:00:00 -0300</pubDate>
